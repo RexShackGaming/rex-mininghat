@@ -1,0 +1,1 @@
+mininghat = { name = 'mininghat', label = 'Mining Hat', weight = 500, type = 'item', image = 'mininghat.png', unique = false, useable = true, shouldClose = true, category = 'tools', description = 'A miner\'s hat with a lamp' },
