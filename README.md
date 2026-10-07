@@ -2,6 +2,8 @@
 
 A wearable mining hat with a working lamp for **RedM** servers running the **RSG-Core** framework.
 
+<img width="1408" height="792" alt="20261007042937_1" src="https://github.com/user-attachments/assets/d415d57a-f1cd-4413-a794-d2f969b4ca2b" />
+
 ## Features
 
 - Usable `mininghat` inventory item that toggles the hat on and off
